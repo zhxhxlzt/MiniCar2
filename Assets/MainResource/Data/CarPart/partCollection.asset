@@ -10,15 +10,13 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 0}
   m_Name: partCollection
-  m_EditorClassIdentifier: Assembly-CSharp::CarPartCollection
+  m_EditorClassIdentifier: Assembly-CSharp::CarPartInfoCollection
   wheel:
   - id: 0
+    sklID: 0
     name: 
     type: 
-  guide:
-  - id: 0
-    name: 
-    type: 
+  guide: []
   cover: []
   pan: []
   battery: []
