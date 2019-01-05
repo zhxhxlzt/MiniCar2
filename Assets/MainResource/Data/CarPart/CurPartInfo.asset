@@ -13,31 +13,31 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CurrentCarPartInfo
   wheel:
     id: 1
-    sklID: 0
+    sklID: 1
     name: black
-    type: wheel
+    type: 0
   guide:
-    id: 0
-    sklID: 0
-    name: 
-    type: 
+    id: 1
+    sklID: 1
+    name: black
+    type: 1
   cover:
-    id: 0
-    sklID: 0
-    name: 
-    type: 
+    id: 1
+    sklID: 1
+    name: black
+    type: 2
   pan:
-    id: 0
-    sklID: 0
-    name: 
-    type: 
+    id: 1
+    sklID: 1
+    name: black
+    type: 3
   battery:
-    id: 0
-    sklID: 0
-    name: 
-    type: 
+    id: 1
+    sklID: 1
+    name: black
+    type: 4
   motor:
-    id: 0
-    sklID: 0
-    name: 
-    type: 
+    id: 1
+    sklID: 1
+    name: black
+    type: 5
